@@ -18,3 +18,7 @@ app.get('/',(req,res)=>{
 app.get('/ads.txt',(req,res)=> {
     res.sendFile(path.resolve(__dirname,'./views','ads.txt'))
 })
+
+app.get('/app-ads.txt',(req,res)=> {
+    res.sendFile(path.resolve(__dirname,'./views','ads.txt'))
+})
