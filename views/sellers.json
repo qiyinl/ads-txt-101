@@ -1,0 +1,1615 @@
+{
+    "version": "1.0",
+    "contact_address": "Juncal 1414, AP:4, Montevideo, UY,11100",
+    "contact_email": "ignacio@awg.la",
+    "sellers": [
+      {
+        "seller_id": "1BEP22987702240",
+        "name": "beelo.fun",
+        "domain": "beelo.fun",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2BEP22987702240",
+        "name": "joinplayin.com",
+        "domain": "joinplayin.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2BEP22987702240",
+        "name": "mightyplays.com",
+        "domain": "mightyplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "3BEP22987702240",
+        "name": "joinplayin.com",
+        "domain": "joinplayin.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "4BEP22987702240",
+        "name": "agoplays.com",
+        "domain": "agoplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "5BEP22987702240",
+        "name": "balletgame.com",
+        "domain": "balletgame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "6BEP22987702240",
+        "name": "bambooplays.com",
+        "domain": "bambooplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "7BEP22987702240",
+        "name": "banigame.com",
+        "domain": "banigame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "8BEP22987702240",
+        "name": "biubiuplays.com",
+        "domain": "biubiuplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "9BEP22987702240",
+        "name": "candyfunplay.com",
+        "domain": "candyfunplay.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "10BEP22987702240",
+        "name": "casualsims.com",
+        "domain": "casualsims.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "11BEP22987702240",
+        "name": "chanplay.com",
+        "domain": "chanplay.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "12BEP22987702240",
+        "name": "chikagames.com",
+        "domain": "chikagames.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "13BEP22987702240",
+        "name": "clawdollgame.com",
+        "domain": "clawdollgame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "14BEP22987702240",
+        "name": "coverygame.com",
+        "domain": "coverygame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "15BEP22987702240",
+        "name": "cuteplays.com",
+        "domain": "cuteplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "16BEP22987702240",
+        "name": "doggiegame.com",
+        "domain": "doggiegame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "17BEP22987702240",
+        "name": "dolosgame.com",
+        "domain": "dolosgame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "18BEP22987702240",
+        "name": "eggshoot.com",
+        "domain": "eggshoot.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "19BEP22987702240",
+        "name": "flappyplay.com",
+        "domain": "flappyplay.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "20BEP22987702240",
+        "name": "funnymmo.com",
+        "domain": "funnymmo.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "21BEP22987702240",
+        "name": "chanplay.com",
+        "domain": "chanplay.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "22BEP22987702240",
+        "name": "gosegame.com",
+        "domain": "gosegame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "23BEP22987702240",
+        "name": "happyergame.com",
+        "domain": "happyergame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "24BEP22987702240",
+        "name": "happyfunplay.com",
+        "domain": "happyfunplay.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "25BEP22987702240",
+        "name": "happyjoins.com",
+        "domain": "happyjoins.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "26BEP22987702240",
+        "name": "heardgames.com",
+        "domain": "heardgames.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "27BEP22987702240",
+        "name": "hoangame.com",
+        "domain": "hoangame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "28BEP22987702240",
+        "name": "idlefunplay.com",
+        "domain": "idlefunplay.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "29BEP22987702240",
+        "name": "idlesim.com",
+        "domain": "idlesim.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "30BEP22987702240",
+        "name": "islandsims.com",
+        "domain": "islandsims.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "31BEP22987702240",
+        "name": "junplays.com",
+        "domain": "junplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "32BEP22987702240",
+        "name": "kanaplays.com",
+        "domain": "kanaplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "33BEP22987702240",
+        "name": "knifeplays.com",
+        "domain": "knifeplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "34BEP22987702240",
+        "name": "mappagame.com",
+        "domain": "mappagame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "35BEP22987702240",
+        "name": "myfunplays.com",
+        "domain": "myfunplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "36BEP22987702240",
+        "name": "navisgame.com",
+        "domain": "navisgame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "37BEP22987702240",
+        "name": "neonplays.com",
+        "domain": "neonplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "38BEP22987702240",
+        "name": "nuggetplays.com",
+        "domain": "nuggetplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "39BEP22987702240",
+        "name": "numogame.com",
+        "domain": "numogame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "40BEP22987702240",
+        "name": "openplaying.com",
+        "domain": "openplaying.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "41BEP22987702240",
+        "name": "phoneplays.com",
+        "domain": "phoneplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "42BEP22987702240",
+        "name": "pumpkinplays.com",
+        "domain": "pumpkinplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "43BEP22987702240",
+        "name": "puzzlemerges.com",
+        "domain": "puzzlemerges.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "44BEP22987702240",
+        "name": "rabbitplays.com",
+        "domain": "rabbitplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "45BEP22987702240",
+        "name": "racingame.com",
+        "domain": "racingame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "46BEP22987702240",
+        "name": "roleplayfun.com",
+        "domain": "roleplayfun.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "47BEP22987702240",
+        "name": "ropeplays.com",
+        "domain": "ropeplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "48BEP22987702240",
+        "name": "rushergames.com",
+        "domain": "rushergames.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "49BEP22987702240",
+        "name": "sammgame.com",
+        "domain": "sammgame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "50BEP22987702240",
+        "name": "sanligames.com",
+        "domain": "sanligames.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "51BEP22987702240",
+        "name": "shootenemy.com",
+        "domain": "shootenemy.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "52BEP22987702240",
+        "name": "showyplay.com",
+        "domain": "showyplay.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "53BEP22987702240",
+        "name": "soilplays.com",
+        "domain": "soilplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "54BEP22987702240",
+        "name": "survivalplays.com",
+        "domain": "survivalplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "55BEP22987702240",
+        "name": "tacticsplays.com",
+        "domain": "tacticsplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "56BEP22987702240",
+        "name": "tycoonsgame.com",
+        "domain": "tycoonsgame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "57BEP22987702240",
+        "name": "vandagame.com",
+        "domain": "vandagame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "58BEP22987702240",
+        "name": "wuhagame.com",
+        "domain": "wuhagame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "59BEP22987702240",
+        "name": "yunngame.com",
+        "domain": "yunngame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "60BEP22987702240",
+        "name": "whiffgame.com",
+        "domain": "whiffgame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "61BEP22987702240",
+        "name": "hazelplay.com",
+        "domain": "hazelplay.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "62BEP22987702240",
+        "name": "harpergame.com",
+        "domain": "harpergame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "63BEP22987702240",
+        "name": "xinngame.com",
+        "domain": "xinngame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "64BEP22987702240",
+        "name": "samogames.com",
+        "domain": "samogames.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "65BEP22987702240",
+        "name": "coisinigame.com",
+        "domain": "coisinigame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "66BEP22987702240",
+        "name": "knackgame.com",
+        "domain": "knackgame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "67BEP22987702240",
+        "name": "shoreplays.com",
+        "domain": "shoreplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "68BEP22987702240",
+        "name": "secretshoots.com",
+        "domain": "secretshoots.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "69BEP22987702240",
+        "name": "remotepuzzles.com",
+        "domain": "remotepuzzles.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "70BEP22987702240",
+        "name": "aoigame.com",
+        "domain": "aoigame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "71BEP22987702240",
+        "name": "triggerplays.com",
+        "domain": "triggerplays.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "MIL7246",
+        "name": "kiwilimon.com",
+        "domain": "kiwilimon.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "1MIL7246",
+        "name": "mmradio.com",
+        "domain": "mmradio.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2MIL7246",
+        "name": "mediotiempo.com",
+        "domain": "mediotiempo.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "3MIL7246",
+        "name": "chicmagazine.com.mx",
+        "domain": "chicmagazine.com.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "4MIL7246",
+        "name": "septimaentrada.com",
+        "domain": "septimaentrada.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "5MIL7246",
+        "name": "revistafama.com",
+        "domain": "revistafama.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "6MIL7246",
+        "name": "multimediostv.com",
+        "domain": "multimediostv.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "7MIL7246",
+        "name": "telediario.mx",
+        "domain": "telediario.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "HAARETZ9401",
+        "name": "haaretz.com",
+        "domain": "haaretz.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "RC39772251",
+        "name": "laz.mx",
+        "domain": "laz.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "1RC39772251",
+        "name": "laoctava.com",
+        "domain": "laoctava.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2RC39772251",
+        "name": "radiocentro.com",
+        "domain": "radiocentro.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "3RC39772251",
+        "name": "joya937.mx",
+        "domain": "joya937.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "4RC39772251",
+        "name": "alfaenlinea.com",
+        "domain": "alfaenlinea.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "5RC39772251",
+        "name": "elfonografo.mx",
+        "domain": "elfonografo.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "65RC39772251",
+        "name": "universal881.com",
+        "domain": "universal881.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "REFORMA142849901",
+        "name": "reforma.com",
+        "domain": "reforma.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "1REFORMA142849901",
+        "name": "mural.com.mx",
+        "domain": "mural.com.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2REFORMA142849901",
+        "name": "elnorte.com",
+        "domain": "elnorte.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "FADAAT270638763",
+        "name": "syria.tv",
+        "domain": "syria.tv",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "1FADAAT270638763",
+        "name": "winwin.com",
+        "domain": "winwin.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2FADAAT270638763",
+        "name": "sehatok.com",
+        "domain": "sehatok.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "3FADAAT270638763",
+        "name": "newarab.com",
+        "domain": "newarab.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "4FADAAT270638763",
+        "name": "alaraby.com",
+        "domain": "alaraby.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "5FADAAT270638763",
+        "name": "alaraby2.com",
+        "domain": "alaraby2.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "BLOOOZ22979349450",
+        "name": "bloooz.com",
+        "domain": "bloooz.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "DA21823186287",
+        "name": "harley.top",
+        "domain": "harley.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "1DA21823186287",
+        "name": "lifeasy.com.br",
+        "domain": "lifeasy.com.br",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2DA21823186287",
+        "name": "sejatual.com.br",
+        "domain": "sejatual.com.br",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "3DA21823186287",
+        "name": "totally.top",
+        "domain": "totally.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "4DA21823186287",
+        "name": "annanasaude.com.br",
+        "domain": "annanasaude.com.br",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "OPENRADIO22107580562",
+        "name": "italian.radio",
+        "domain": "italian.radio",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "1OPENRADIO22107580562",
+        "name": "soulradio.eu",
+        "domain": "soulradio.eu",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2OPENRADIO22107580562",
+        "name": "classichits.radio",
+        "domain": "classichits.radio",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "3OPENRADIO22107580562",
+        "name": "funky.radio",
+        "domain": "funky.radio",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "HKFENG23220207858",
+        "name": "merryh5players.site",
+        "domain": "merryh5players.site",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "1HKFENG23220207858",
+        "name": "gameonh5.site",
+        "domain": "gameonh5.site",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2HKFENG23220207858",
+        "name": "lightningh5games.site",
+        "domain": "lightningh5games.site",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "3HKFENG23220207858",
+        "name": "smileh5play.site",
+        "domain": "smileh5play.site",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "4HKFENG23220207858",
+        "name": "lightnightsh5epic.site",
+        "domain": "lightnightsh5epic.site",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "5HKFENG23220207858",
+        "name": "glowlightgame.online",
+        "domain": "glowlightgame.online",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "6HKFENG23220207858",
+        "name": "pocketh5gamers.site",
+        "domain": "pocketh5gamers.site",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "0000100002A",
+        "name": "revry.tv",
+        "domain": "revry.tv",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "0000100002B",
+        "name": "philo.com",
+        "domain": "philo.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "0000100003A",
+        "name": "qwest.tv",
+        "domain": "qwest.tv",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "0000100003B",
+        "name": "samsung.com",
+        "domain": "samsung.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "0000100004A",
+        "name": "siprocal.com",
+        "domain": "siprocal.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "0000100004B",
+        "name": "home.cineverse.com",
+        "domain": "home.cineverse.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "0000100004C",
+        "name": "anandamedia.net",
+        "domain": "anandamedia.net",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "0000100005A",
+        "name": "xiaomi.com",
+        "domain": "xiaomi.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "0000100005B",
+        "name": "distro.tv",
+        "domain": "distro.tv",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "0000100005C",
+        "name": "tcl.com",
+        "domain": "tcl.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "1SFTL23213296893",
+        "name": "bexwol.com",
+        "domain": "bexwol.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2SFTL23213296893",
+        "name": "hupmend.com",
+        "domain": "hupmend.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "3SFTL23213296893",
+        "name": "sactint.com",
+        "domain": "sactint.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "4SFTL23213296893",
+        "name": "sarlif.com",
+        "domain": "sarlif.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "5SFTL23213296893",
+        "name": "wxyzu.com",
+        "domain": "wxyzu.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "6SFTL23213296893",
+        "name": "kiwis.top",
+        "domain": "kiwis.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "7SFTL23213296893",
+        "name": "osage.top",
+        "domain": "osage.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "23027922105A",
+        "name": "gametoday.top",
+        "domain": "gametoday.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "23027922105B",
+        "name": "gameworkd.top",
+        "domain": "gameworkd.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "23027922105C",
+        "name": "gamslow.top",
+        "domain": "gamslow.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "1SIEM23201238672",
+        "name": "maxcart.fun",
+        "domain": "maxcart.fun",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2SIEM23201238672",
+        "name": "grabnowit.site",
+        "domain": "grabnowit.site",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "3SIEM23201238672",
+        "name": "funcart.online",
+        "domain": "funcart.online",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "4SIEM23201238672",
+        "name": "buymax.online",
+        "domain": "buymax.online",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "5SIEM23201238672",
+        "name": "quickbuypro.site",
+        "domain": "quickbuypro.site",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "1RUST23089285966",
+        "name": "siongame.top",
+        "domain": "siongame.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2RUST23089285966",
+        "name": "nowngame.top",
+        "domain": "nowngame.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "3RUST23089285966",
+        "name": "nervegame.top",
+        "domain": "nervegame.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "4RUST23089285966",
+        "name": "talegame.top",
+        "domain": "talegame.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "5RUST23089285966",
+        "name": "assaygame.top",
+        "domain": "assaygame.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "6RUST23089285966",
+        "name": "ruitgame.top",
+        "domain": "ruitgame.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "7RUST23089285966",
+        "name": "embarkgame.top",
+        "domain": "embarkgame.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "SONY0000100006",
+        "name": "sonyone.com.mx",
+        "domain": "sonyone.com.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "CINEV0000100006",
+        "name": "cineverse.com",
+        "domain": "cineverse.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "OLYMP0000100006",
+        "name": "olympusat.com",
+        "domain": "olympusat.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "NEWS0000100007",
+        "name": "newson.us",
+        "domain": "newson.us",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "SAMS0000100007",
+        "name": "samsungtvplus.com",
+        "domain": "samsungtvplus.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "GLOB0000100010",
+        "name": "global.e.mi.com",
+        "domain": "global.e.mi.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "NEW0000100010",
+        "name": "corporate.newson.us",
+        "domain": "corporate.newson.us",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "1LP23017866075",
+        "name": "blog.cursosemfronteiras.blog",
+        "domain": "blog.cursosemfronteiras.blog",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "2LP23017866075",
+        "name": "definancas.com",
+        "domain": "definancas.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "3LP23017866075",
+        "name": "playdegamer.com",
+        "domain": "playdegamer.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "4LP23017866075",
+        "name": "theuniver.com",
+        "domain": "theuniver.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "5LP23017866075",
+        "name": "brokerue.com",
+        "domain": "brokerue.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "6LP23017866075",
+        "name": "course.5gnoticias.com",
+        "domain": "course.5gnoticias.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23072170091",
+        "name": "solaosinc.com",
+        "domain": "solaosinc.com",
+        "seller_type": "BOTH"
+      },
+      {
+        "seller_id": "B23072170091",
+        "name": "nichenetwork.tv",
+        "domain": "nichenetwork.tv",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A22899692726",
+        "name": "xiaodede.com",
+        "domain": "xiaodede.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B22899692726",
+        "name": "xiaoyuntun.com",
+        "domain": "xiaoyuntun.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C22899692726",
+        "name": "xiaotangbao.com",
+        "domain": "xiaotangbao.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D22899692726",
+        "name": "xiaolangren.com",
+        "domain": "xiaolangren.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23095541548",
+        "name": "juegoseducativos.win",
+        "domain": "juegoseducativos.win",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23095541548",
+        "name": "inglesbasico.site",
+        "domain": "inglesbasico.site",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23095541548",
+        "name": "ragnarokscanlation.net",
+        "domain": "ragnarokscanlation.net",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D23095541548",
+        "name": "entrepaginasrd.com",
+        "domain": "entrepaginasrd.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "E23095541548",
+        "name": "conoce-japon.com",
+        "domain": "conoce-japon.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A22867292069",
+        "name": "sky.com.br",
+        "domain": "sky.com.br",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B22867292069",
+        "name": "directvgo.com",
+        "domain": "directvgo.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A22042192664",
+        "name": "futuretodayinc.com",
+        "domain": "futuretodayinc.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B22042192664",
+        "name": "filmrise.com",
+        "domain": "filmrise.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C22042192664",
+        "name": "fawesome.tv",
+        "domain": "fawesome.tv",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A21762255263",
+        "name": "businessandlifetips.com",
+        "domain": "businessandlifetips.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B21762255263",
+        "name": "biomedicalinstrumentationsystems.com",
+        "domain": "biomedicalinstrumentationsystems.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C21762255263",
+        "name": "electricalandcontrol.com",
+        "domain": "electricalandcontrol.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D21762255263",
+        "name": "industrialinstrumentationsolutions.blogspot.com",
+        "domain": "industrialinstrumentationsolutions.blogspot.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23092988868",
+        "name": "glaadvoice.com",
+        "domain": "glaadvoice.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23092988868",
+        "name": "wellhealthorganic.org",
+        "domain": "wellhealthorganic.org",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23092988868",
+        "name": "Trendingopine.in",
+        "domain": "Trendingopine.in",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D23092988868",
+        "name": "trendingopine.in",
+        "domain": "trendingopine.in",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "E23092988868",
+        "name": "financialachieve.com",
+        "domain": "financialachieve.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A22488474589",
+        "name": "tech.dicas.biz",
+        "domain": "tech.dicas.biz",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B22488474589",
+        "name": "dicas.biz",
+        "domain": "dicas.biz",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23069734963",
+        "name": "movieads.eu",
+        "domain": "movieads.eu",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23069734963",
+        "name": "ntv.com.ge",
+        "domain": "ntv.com.ge",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23069734963",
+        "name": "news474daily.com",
+        "domain": "news474daily.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D23069734963",
+        "name": "recepti.cc",
+        "domain": "recepti.cc",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "E23069734963",
+        "name": "wizads.eu",
+        "domain": "wizads.eu",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "F23069734963",
+        "name": "servientrega.com.pe",
+        "domain": "servientrega.com.pe",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "G23069734963",
+        "name": "news474daily.com",
+        "domain": "news474daily.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "H23069734963",
+        "name": "camposantomapfre.com.pe",
+        "domain": "camposantomapfre.com.pe",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23054947776",
+        "name": "shahrefarang.live",
+        "domain": "shahrefarang.live",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23041213680",
+        "name": "dealzflight.com",
+        "domain": "dealzflight.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23041213680",
+        "name": "m10news.com",
+        "domain": "m10news.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A22814945621",
+        "name": "dogsvets.com",
+        "domain": "dogsvets.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A22153098658",
+        "name": "ccna.network",
+        "domain": "ccna.network",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B22153098658",
+        "name": "geekscripts.guru",
+        "domain": "geekscripts.guru",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C22153098658",
+        "name": "ccna-200-301.online",
+        "domain": "ccna-200-301.online",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D22153098658",
+        "name": "htmldesdecero.es",
+        "domain": "htmldesdecero.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A22962921533",
+        "name": "loop.tv",
+        "domain": "loop.tv",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B22962921533",
+        "name": "retailmedia.tv",
+        "domain": "retailmedia.tv",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23119648638",
+        "name": "samakalikamalayalam.com",
+        "domain": "samakalikamalayalam.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23119648638",
+        "name": "newindianexpress.com",
+        "domain": "newindianexpress.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23119648638",
+        "name": "kannadaprabha.com",
+        "domain": "kannadaprabha.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D23119648638",
+        "name": "dinamani.com",
+        "domain": "dinamani.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23089520783",
+        "name": "lovemegames.top",
+        "domain": "lovemegames.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23089520783",
+        "name": "bestgamesforyou.site",
+        "domain": "bestgamesforyou.site",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23089520783",
+        "name": "gamebetter.site",
+        "domain": "gamebetter.site",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D23089520783",
+        "name": "uccgames.online",
+        "domain": "uccgames.online",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "E23089520783",
+        "name": "html5games.top",
+        "domain": "html5games.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "F23089520783",
+        "name": "ekom.games",
+        "domain": "dinamani.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23200535194",
+        "name": "oneindia.com",
+        "domain": "oneindia.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23200535194",
+        "name": "hawtcelebs.com",
+        "domain": "hawtcelebs.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23200535194",
+        "name": "gazzettagranata.com",
+        "domain": "gazzettagranata.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D23200535194",
+        "name": "superluchas.com",
+        "domain": "superluchas.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "E23200535194",
+        "name": "cougarboard.com",
+        "domain": "cougarboard.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "F23200535194",
+        "name": "11v11.com",
+        "domain": "11v11.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "G23200535194",
+        "name": "manutdnews.com",
+        "domain": "manutdnews.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "H23200535194",
+        "name": "goonertalk.com",
+        "domain": "goonertalk.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "I23200535194",
+        "name": "sportsview.co.uk",
+        "domain": "sportsview.co.uk",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "J23200535194",
+        "name": "paisleygates.com",
+        "domain": "paisleygates.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "K23200535194",
+        "name": "paparazzi.com.ar",
+        "domain": "paparazzi.com.ar",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "L23200535194",
+        "name": "revistagente.com",
+        "domain": "revistagente.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "M23200535194",
+        "name": "football-talk.co.uk",
+        "domain": "football-talk.co.uk",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23211337317",
+        "name": "gametraverse.top",
+        "domain": "gametraverse.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23211337317",
+        "name": "gamerushzone.top",
+        "domain": "gamerushzone.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23211337317",
+        "name": "rushplayzone.top",
+        "domain": "rushplayzone.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D23211337317",
+        "name": "igniteplayzone.top",
+        "domain": "igniteplayzone.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "E23211337317",
+        "name": "powerplayzone.top",
+        "domain": "powerplayzone.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23204490358",
+        "name": "peacego.shop",
+        "domain": "peacego.shop",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23204490358",
+        "name": "brightfield.top",
+        "domain": "brightfield.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23204490358",
+        "name": "kindtop.xyz",
+        "domain": "kindtop.xyz",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D23204490358",
+        "name": "soulspire.top",
+        "domain": "soulspire.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D23204490358",
+        "name": "soulspire.top",
+        "domain": "soulspire.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23210124944",
+        "name": "gamemissiontop.top",
+        "domain": "gamemissiontop.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23210124944",
+        "name": "gameexpansive.top",
+        "domain": "gameexpansive.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23210124944",
+        "name": "gamevortexview.top",
+        "domain": "gamevortexview.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D23210124944",
+        "name": "gamehighwayplay.top",
+        "domain": "gamehighwayplay.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "E23210124944",
+        "name": "gamewavequest.top",
+        "domain": "gamewavequest.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23186030005",
+        "name": "quickgame1.top",
+        "domain": "quickgame1.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23186030005",
+        "name": "quickgame2.top",
+        "domain": "quickgame2.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23186030005",
+        "name": "quickgame3.top",
+        "domain": "quickgame3.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23208534297",
+        "name": "ultramodezone.top",
+        "domain": "ultramodezone.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23208534297",
+        "name": "stormtrailplay.top",
+        "domain": "stormtrailplay.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23208534297",
+        "name": "battlezonegearhero.top",
+        "domain": "battlezonegearhero.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D23208534297",
+        "name": "speedtrailgear.top",
+        "domain": "speedtrailgear.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "E23208534297",
+        "name": "rapidlightplay.top",
+        "domain": "rapidlightplay.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "F23208534297",
+        "name": "battlecraftplay.top",
+        "domain": "battlecraftplay.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "G23208534297",
+        "name": "gamequestzone.top",
+        "domain": "gamequestzone.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "H23208534297",
+        "name": "gamepulsezonehero.top",
+        "domain": "gamepulsezonehero.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "I23208534297",
+        "name": "battlezonegear.top",
+        "domain": "battlezonegear.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "J23208534297",
+        "name": "ultrarisegame.top",
+        "domain": "ultrarisegame.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "K23208534297",
+        "name": "stormtrailzone.top",
+        "domain": "stormtrailzone.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "L23208534297",
+        "name": "mastermovezoneforce.top",
+        "domain": "mastermovezoneforce.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "M23208534297",
+        "name": "apexgearhero.top",
+        "domain": "apexgearhero.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "N23208534297",
+        "name": "gamelightgearhero.top",
+        "domain": "gamelightgearhero.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23211604301",
+        "name": "jindgames.com",
+        "domain": "jindgames.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23211604301",
+        "name": "melixgame.com",
+        "domain": "melixgame.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23210954149",
+        "name": "game-dragon.pro",
+        "domain": "game-dragon.pro",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23210954149",
+        "name": "game-hive.pro",
+        "domain": "game-hive.pro",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23210954149",
+        "name": "game-quest.pro",
+        "domain": "game-quest.pro",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "A23211003830",
+        "name": "gameterritoryhub.top",
+        "domain": "gameterritoryhub.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "B23211003830",
+        "name": "gamewavefrontier.top",
+        "domain": "gamewavefrontier.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "C23211003830",
+        "name": "gameplanetzone.top",
+        "domain": "gameplanetzone.top",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "seller_id": "D23211003830",
+        "name": "gameflyzone.top",
+        "domain": "gameflyzone.top",
+        "seller_type": "PUBLISHER"
+      }
+    ]
+  }
