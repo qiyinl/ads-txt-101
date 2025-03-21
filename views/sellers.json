@@ -10,7 +10,7 @@
         "seller_type": "PUBLISHER"
        },
        {
-        "seller_id": "2BEP22987702240",
+        "seller_id": "1234562BEP22987702240",
         "name": "joinplayin.com",
         "domain": "joinplayin.com",
         "seller_type": "PUBLISHER"
@@ -465,7 +465,7 @@
         "seller_type": "PUBLISHER"
        },
        {
-        "seller_id": "76BEP22987702240",
+        "seller_id": "5676BEP22987702240",
         "name": "rosaltgame.com",
         "domain": "rosaltgame.com",
         "seller_type": "PUBLISHER"
@@ -2031,7 +2031,7 @@
   "seller_type": "PUBLISHER"
 },
 {
-  "seller_id": "A23092988868",
+  "seller_id": "12452A23092988868",
   "name": "glaadvoice.com",
   "domain": "glaadvoice.com",
   "seller_type": "PUBLISHER"
@@ -2373,12 +2373,6 @@
   "seller_type": "PUBLISHER"
 },
 {
-  "seller_id": "D23204490358",
-  "name": "soulspire.top",
-  "domain": "soulspire.top",
-  "seller_type": "PUBLISHER"
-},
-{
   "seller_id": "A23210124944",
   "name": "gamemissiontop.top",
   "domain": "gamemissiontop.top",
@@ -2565,13 +2559,13 @@
   "seller_type": "PUBLISHER"
 },
 {
-  "seller_id": "A22652857892",
+  "seller_id": "6A22652857892",
   "name": "bongda.com.vn",
   "domain": "bongda.com.vn",
   "seller_type": "PUBLISHER"
 },
 {
-  "seller_id": "A22652857892",
+  "seller_id": "2A22652857892",
   "name": "bongda24h.vn",
   "domain": "bongda24h.vn",
   "seller_type": "PUBLISHER"
@@ -2607,12 +2601,6 @@
   "seller_type": "PUBLISHER"
 },
 {
-  "seller_id": "A21889596309",
-  "name": "tcsahora.com",
-  "domain": "tcsahora.com",
-  "seller_type": "PUBLISHER"
-},
-{
   "seller_id": "A124557882",
   "name": "24h.com.vn",
   "domain": "24h.com.vn",
@@ -2625,45 +2613,15 @@
   "seller_type": "PUBLISHER"
 },
 {
-  "seller_id": "A23286059897",
-  "name": "studyxcel.com",
-  "domain": "studyxcel.com",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "A22945082637",
-  "name": "fito.cc",
-  "domain": "fito.cc",
-  "seller_type": "PUBLISHER"
-},
-{
   "seller_id": "A22707555666",
   "name": "doanhnghiepvn.vn",
   "domain": "doanhnghiepvn.vn",
   "seller_type": "PUBLISHER"
 },
 {
-  "seller_id": "A22767489790",
-  "name": "kienthuc.net.vn",
-  "domain": "kienthuc.net.vn",
-  "seller_type": "PUBLISHER"
-},
-{
   "seller_id": "A32409680",
   "name": "check4d.org",
   "domain": "check4d.org",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "B32409680",
-  "name": "live4d2u.net",
-  "domain": "live4d2u.net",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "A23079544702",
-  "name": "prakaspon.com",
-  "domain": "prakaspon.com",
   "seller_type": "PUBLISHER"
 },
 {
@@ -2676,30 +2634,6 @@
   "seller_id": "A22998675798",
   "name": "thelivingmanna.com",
   "domain": "thelivingmanna.com",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "A23234486223",
-  "name": "mayvoya.com",
-  "domain": "mayvoya.com",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "B23234486223",
-  "name": "golifegos.com",
-  "domain": "golifegos.com",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "A22865333551",
-  "name": "megalucratividade.com",
-  "domain": "megalucratividade.com",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "A23045857909",
-  "name": "iiceredteas.com",
-  "domain": "iiceredteas.com",
   "seller_type": "PUBLISHER"
 },
 {
@@ -2727,33 +2661,9 @@
   "seller_type": "PUBLISHER"
 },
 {
-  "seller_id": "MEG00000330",
-  "name": "mega.cl",
-  "domain": "mega.cl",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "MEG00000331",
-  "name": "meganoticias.cl",
-  "domain": "meganoticias.cl",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "MEG00000332",
-  "name": "megatiempo.cl",
-  "domain": "megatiempo.cl",
-  "seller_type": "PUBLISHER"
-},
-{
   "seller_id": "A21889596309",
   "name": "tcsahora.com",
   "domain": "tcsahora.com",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "A124557882",
-  "name": "24h.com.vn",
-  "domain": "24h.com.vn",
   "seller_type": "PUBLISHER"
 },
 {
@@ -2769,15 +2679,9 @@
   "seller_type": "PUBLISHER"
 },
 {
-  "seller_id": "A23097018043",
+  "seller_id": "7A23097018043",
   "name": "glaadblog.org",
   "domain": "glaadblog.org",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "A23045779644",
-  "name": "tesedavida.com",
-  "domain": "tesedavida.com",
   "seller_type": "PUBLISHER"
 },
 {
@@ -2799,21 +2703,9 @@
   "seller_type": "PUBLISHER"
 },
 {
-  "seller_id": "A22707555666",
-  "name": "doanhnghiepvn.vn",
-  "domain": "doanhnghiepvn.vn",
-  "seller_type": "PUBLISHER"
-},
-{
   "seller_id": "A22767489790",
   "name": "kienthuc.net.vn",
   "domain": "kienthuc.net.vn",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "A32409680",
-  "name": "check4d.org",
-  "domain": "check4d.org",
   "seller_type": "PUBLISHER"
 },
 {
@@ -2826,18 +2718,6 @@
   "seller_id": "A23079544702",
   "name": "prakaspon.com",
   "domain": "prakaspon.com",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "B23079544702",
-  "name": "kroocool.com",
-  "domain": "kroocool.com",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "A22998675798",
-  "name": "thelivingmanna.com",
-  "domain": "thelivingmanna.com",
   "seller_type": "PUBLISHER"
 },
 {
@@ -2862,12 +2742,6 @@
   "seller_id": "A23045857909",
   "name": "iiceredteas.com",
   "domain": "iiceredteas.com",
-  "seller_type": "PUBLISHER"
-},
-{
-  "seller_id": "B23045857909",
-  "name": "sweetastes.com",
-  "domain": "sweetastes.com",
   "seller_type": "PUBLISHER"
 },
 {
@@ -5716,7 +5590,7 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "23075882662",
+      "seller_id": "3S23075882662",
       "name": "$1 Million Quiz",
       "domain": "1205335",
       "seller_type": "PUBLISHER"
@@ -5728,37 +5602,37 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "23075882662",
+      "seller_id": "4S23075882662",
       "name": "007 Squirrel",
       "domain": "1150405",
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "23072170091",
+      "seller_id": "1N23072170091",
       "name": "Niche Live",
       "domain": "com.solaos.nntv",
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "23072170091",
+      "seller_id": "N23072170091",
       "name": "Niche Network",
       "domain": "1631970383",
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "23075882662",
+      "seller_id": "5S23075882662",
       "name": "Pac-Maze",
       "domain": "1125084",
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "23075882662",
+      "seller_id": "6S23075882662",
       "name": "Animal World",
       "domain": "1212930",
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "23075882662",
+      "seller_id": "1S23075882662",
       "name": "Park It!",
       "domain": "1210995",
       "seller_type": "PUBLISHER"
